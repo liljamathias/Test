@@ -1,0 +1,15 @@
+Package: interactiveKM
+Title: Interactive Kaplan-Meier survival curves for Shiny
+Version: 0.1.0
+Description: Utilities for building ggplot2-based Kaplan-Meier curves with
+    hover-interactive point estimates, built on plotly and embeddable in
+    Shiny apps.
+Imports:
+    survival,
+    ggplot2,
+    ggsurvfit,
+    pammtools,
+    plotly,
+    shiny,
+    scales
+Encoding: UTF-8
